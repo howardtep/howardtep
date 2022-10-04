@@ -38,7 +38,7 @@
 
 # 📊 Github Stats
 
-<p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=howardtep&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=tokyonight" /></p>
+<p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=howardtep&custom_tutle=Howard_Tep&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=tokyonight" /></p>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howardtep&langs_count=5&theme=tokyonight) -->
 
