@@ -3,7 +3,7 @@
 <p align="center" style="margin-bottom: 0px"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=850&width=500&lines=Hello+there%2C+I'm+Howard+%F0%9F%91%8B;Nice+to+meet+you!+%5E_%5E" alt="Typing SVG" /></p>
 <h1 style="margin-top: 0px;">About</h1>
 <a href="https://discord.gg/FtaHFnUqmP">
-  <img align="left"src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="Howard's Discord" width="35px" height="35px"  />
+  <img align="left"src="#" alt="Howard's Discord" width="35px" height="35px"  />
 </a>
 <a href="https://www.linkedin.com/in/howardtep/">
   <img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Howard's LinkedIn" width="35px" height="35px" />
