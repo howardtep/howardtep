@@ -45,5 +45,3 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howardtep&langs_count=5&theme=tokyonight) -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=howardtep&langs_count=5&theme=tokyonight"></p>
-
-![](https://hit.yhype.me/github/profile?user_id=43050698)
