@@ -1,6 +1,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=750&width=435&lines=Hello+there%2C+I'm+Howard%F0%9F%91%8B;Nice+to+meet+you!+%5E_%5E)](https://git.io/typing-svg) -->
 
 <p align="center" style="margin-bottom: 0px"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=850&width=500&lines=Hello+there%2C+I'm+Howard+%F0%9F%91%8B;Nice+to+meet+you!+%5E_%5E" alt="Typing SVG" /></p>
+![](https://komarev.com/ghpvc/?username=howardtep&label=views&color=311a4f&style=flat)
 <h1 style="margin-top: 0px;">About</h1>
 <a href="#">
   <img align="left"src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="Howard's Discord" width="35px" height="35px"/>
@@ -43,3 +44,5 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howardtep&langs_count=5&theme=tokyonight) -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=howardtep&langs_count=5&theme=tokyonight"></p>
+
+![](https://hit.yhype.me/github/profile?user_id=43050698)
