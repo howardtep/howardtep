@@ -4,11 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=howardtep&label=views&color=311a4f&style=flat)
 <h1 style="margin-top: 0px;">About</h1>
-<a href="#">
-  <img align="left"src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" alt="Howard's Discord" width="35px" height="35px"/>
-</a>
 <a href="https://www.linkedin.com/in/howardtep/">
-  <img align="left" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="Howard's LinkedIn" width="35px" height="35px"/>
+  <img align="left" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="Howard's LinkedIn" width="35px" height="35px"/>
 </a>
 <br clear="left"/>
 <br clear="left"/>
@@ -39,8 +36,10 @@
 <!-- <br /> -->
 
 # 📊 Github Stats
-
-<p align="center"><img src = "https://github-readme-stats.vercel.app/api?username=howardtep&custom_tutle=Howard_Tep&hide=prs,issues,contribs&count_private=true&show_icons=true&theme=tokyonight" /></p>
+<!-- https://githubreadmestatsfast.vercel.app/ -->
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=howardtep&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=howardtep&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=howardtep&layout=compact&theme=radical)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howardtep&langs_count=5&theme=tokyonight) -->
 
