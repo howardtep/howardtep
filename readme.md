@@ -37,12 +37,9 @@
 
 # 📊 Github Stats
 <!-- https://githubreadmestatsfast.vercel.app/ -->
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=howardtep&show_icons=true&theme=radical)
+<!--![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=howardtep&show_icons=true&theme=radical) -->
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=howardtep&theme=radical)
+
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=howardtep&layout=compact&theme=radical)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=howardtep&langs_count=5&theme=tokyonight) -->
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=howardtep&langs_count=5&theme=tokyonight"></p>
-
-![](https://hit.yhype.me/github/profile?user_id=43050698)
