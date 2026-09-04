@@ -10,8 +10,8 @@
 <br clear="left"/>
 <br clear="left"/>
 
-- Working full-time as a software engineer and part-time as an app developer for <a href="https://www.cutcam.co/" target="_blank">cutcam</a>
-- Currently learning: React, Typescript
+- Working full-time as a software engineer
+- Currently learning: Rust
 - Interested in gaming, crypto, traveling
 
 # Proficiencies
